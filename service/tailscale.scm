@@ -3,7 +3,7 @@
   #:use-module (gnu packages)
   #:use-module (gnu services)
   #:use-module (gnu services shepherd)
-  #:use-module (awb99 package tailscale)
+  #:use-module (hateful package tailscale)
   #:export (tailscale-service))
 
 
